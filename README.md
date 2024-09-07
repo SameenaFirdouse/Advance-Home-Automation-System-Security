@@ -15,3 +15,5 @@ C++ for Arduino code
 Instructions:
 Steps to set up the system (connecting components, loading the code).
 Circuit diagrams and parts list.
+The Fingerprint checking code is located in the `fingerprint check.io` file.
+The water level detection &fire detection code is located in the `water_lvl_us_fir.io` file.
